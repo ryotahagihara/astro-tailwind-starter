@@ -159,6 +159,11 @@ Builds as a pure static site (SSG), compatible with Vercel, Netlify, GitHub Page
 
 Please report issues or feature requests via [GitHub Issues](https://github.com/ryotahagihara/astro-tailwind-starter/issues).
 
+## Credits
+
+This template includes a "Built with [astro-tailwind-starter](https://github.com/ryotahagihara/astro-tailwind-starter)" link in the footer.
+Keeping it is optional but greatly appreciated! It helps others discover this template and supports the project.
+
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details.
