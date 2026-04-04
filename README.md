@@ -10,7 +10,7 @@
 
 ## Minimal Setup for Astro Development
 
-This is a starter kit pre-configured with Astro + Tailwind CSS + Prettier + ESLint. It eliminates the initial environment setup, allowing you to focus immediately on design and development.
+This is a starter kit pre-configured with Astro v6 + Tailwind CSS v4 + Prettier + ESLint. It eliminates the initial environment setup, allowing you to focus immediately on design and development.
 
 [![Use this template](https://img.shields.io/badge/use_this_template-197935?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=astro-tailwind-starter&template_owner=ryotahagihara)
 [![View on GitHub](https://img.shields.io/badge/view_on_github-1f2328?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryotahagihara/astro-tailwind-starter)
@@ -27,8 +27,7 @@ You can edit and preview the code instantly in your browser via the buttons belo
 
 | Tech               | Description                                     |
 | ------------------ | ----------------------------------------------- |
-| Astro v5           | The web framework for content-driven websites   |
-| TypeScript         | JavaScript with syntax for types                |
+| Astro v6           | The web framework for content-driven websites   |
 | Tailwind CSS v4    | A utility-first CSS framework                   |
 | Cloudflare Workers | Serverless platform running on a global network |
 | Prettier           | An opinionated code formatter                   |
@@ -168,4 +167,4 @@ Keeping it is optional but greatly appreciated! It helps others discover this te
 
 MIT License - See [LICENSE](LICENSE) for details.
 
-Copyright &copy; 2025 [Ryota Hagihara](https://www.ryotahagihara.com/) All rights reserved.
+Copyright &copy; 2025 [Ryota Hagihara](https://www.ryotahagihara.com/)
